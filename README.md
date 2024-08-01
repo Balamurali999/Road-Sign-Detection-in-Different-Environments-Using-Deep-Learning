@@ -35,7 +35,7 @@ like this:
 
 You can downoad my labeled dataset using the link below
 
-https://drive.google.com/file/d/1iQwsS8R8Me4TyuvDYpcPrpJ12yxNwyVi/view?usp=sharing
+https://drive.google.com/drive/folders/19zjrrEmB3nXAJAr_IGb0WgsLqUYaWUTz?usp=sharing
 
 
 Now we can open labelimg using this command:
